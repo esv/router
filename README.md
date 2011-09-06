@@ -1,4 +1,4 @@
-Django-like url router
+Django-like URL router
 ======================
 
 
